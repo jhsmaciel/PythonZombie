@@ -1,0 +1,1 @@
+print(int(input('Digite o valor do primeiro número: '))+int(input('Digite o valor do segundo número: ')))
