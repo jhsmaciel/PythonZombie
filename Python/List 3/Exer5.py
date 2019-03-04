@@ -8,8 +8,7 @@ else:
     valorBaixo = valorUm
 
 valorDiv = 1
-while valorDiv < valorBaixo:
-    print(valorDiv)
+while valorDiv <= valorBaixo:
     if valorUm % valorDiv == 0 and valorDois % valorDiv  == 0:
         MDC = valorDiv
     valorDiv += 1
